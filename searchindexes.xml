@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>微星 MSI 300 系 22nm PCH 主板 Sky/Kaby Lake & Xeon & BGA1440 Mod BIOS</title><url>/post/msi-300s-22nm-pch-motherboard-modified-bios/</url><categories/><tags/><content type="html"> 下载链接: https://pan.baidu.com/s/1N1ngOwU0Po8IqyHmQr5Eig 提取码: evi8
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>华硕 ASUS 300 系 22nm PCH 主板 Sky/Kaby Lake & Xeon & BGA1440 Mod BIOS</title><url>/post/asus-300s-22nm-pch-motherboard-modified-bios/</url><categories/><tags/><content type="html"> 链接: https://pan.baidu.com/s/1PGn9hEos6gDTFPYsfFkgCg 提取码: 22nm
+提供两个版本的BIOS，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。
+推荐使用编程器刷入（刷前请妥善备份原 BIOS），也可以采用你喜欢的其他方式刷入，刷入时请确保除了 BIOS Region 以外，Flash Desciptor 和 ME Region 也被成功刷入，同时保证 MAC 地址的备份与还原。
+网盘内的 BIOS 文件均以 ZIP 格式压缩，刷入前需要解压。
+此处提供的 BIOS 文件名解压后均与官方 BIOS 一致。
+修改内容（“ME正常启用”版）：
+微码 506E3(0xBA),506E8(0x34),906E9(0x5E),906EA(0x96),906EB(0x5E),906EC(0x98),906ED(0xBE) 修复 搭配原本不支持的 CPU 时直连 CPU 的 PCIE 不可用的问题 核显 vBIOS 更新到 1062 版本 核显 GOP 更新到 9.0.1107 版本 核显 GOP VBT 更新到 228 版本 修改 支持非 Z PCH 在 BIOS 内超频特定 ES 及 BGA1440 转针 CPU，并解锁其完整超频选项 修改 Intel PHY 网卡默认 MAC 地址，避免 88-88-88-88-87-88 带来的问题 修改 默认禁用 BIOS Lock 修改 默认启用 VT-x 修改 默认启用 DRAM SPD Write 降级 ME 版本到 11.7.0.1261 对于采用任意 PCH 的主板来说：
+此版本 BIOS 不支持 6 代 ES 不显的 CPU（无论是原生 LGA1151 还是 BGA1440 转接 LGA1151），官方同版本 BIOS 亦是如此。 此版本 BIOS 不支持任意 Xeon 志强系列的 CPU（无论是原生 LGA1151 还是 BGA1440 转接 LGA1151），官方同版本 BIOS 亦是如此。 此版本 BIOS 不支持任意 BGA1440 转 LGA1151 的 CPU，官方同版本 BIOS 亦是如此。 此版本 BIOS 支持其它上文没有提到的 CPU。 在“ME正常启用”版的基础上额外做如下改动，即为“ME部分禁用”版的修改内容：
+修改 ME …</content></entry><entry><title>微星 MSI 300 系 22nm PCH 主板 Sky/Kaby Lake & Xeon & BGA1440 Mod BIOS</title><url>/post/msi-300s-22nm-pch-motherboard-modified-bios/</url><categories/><tags/><content type="html"> 下载链接: https://pan.baidu.com/s/1N1ngOwU0Po8IqyHmQr5Eig 提取码: evi8
 提供两个版本的BIOS，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。
 推荐使用 BIOS 内置的 M-Flash 功能刷入，若当前非官方 BIOS，请先刷回官方 BIOS。
 也可以采用你喜欢的其他方式刷入，刷入时请确保除了 BIOS Region 以外，Flash Desciptor 和 ME Region 也被成功刷入，同时保证 MAC 地址的备份与还原。
