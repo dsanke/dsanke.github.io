@@ -1,1 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Surfing Through the Decade</title><link>https://dsanke.cc/</link><description>Recent content on Surfing Through the Decade</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 03 Mar 2024 16:30:00 +0800</lastBuildDate><atom:link href="https://dsanke.cc/rss.xml" rel="self" type="application/rss+xml"/><item><title>华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/asus-100s-pch-motherboard-legacy-modified-bios/</link><pubDate>Sun, 03 Mar 2024 15:27:00 +0800</pubDate><guid>https://dsanke.cc/post/asus-100s-pch-motherboard-legacy-modified-bios/</guid><description>前言 此处的 BIOS 与 华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS 主要有两点区别： 此处的 BIOS 支持 Skylake ES。 此处的 BIOS 主要兼容 DDR3 版本。 若此处找不到你需要的 BIOS，可以</description></item><item><title>华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/asus-100s-200s-pch-motherboard-modified-bios/</link><pubDate>Sun, 03 Mar 2024 13:59:16 +0800</pubDate><guid>https://dsanke.cc/post/asus-100s-200s-pch-motherboard-modified-bios/</guid><description>前言 此处的 BIOS 与 华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS 主要有两点区别： 此处的 BIOS 不支持 Skylake ES。 此处的 BIOS 主要兼容 DDR4 版本。 若此处找不到你需要的 BIOS，</description></item><item><title>华硕 ASUS 300 系 22nm PCH 主板 Sky/Kaby Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/asus-300s-22nm-pch-motherboard-modified-bios/</link><pubDate>Sat, 02 Mar 2024 23:54:16 +0800</pubDate><guid>https://dsanke.cc/post/asus-300s-22nm-pch-motherboard-modified-bios/</guid><description>下载 链接: https://pan.baidu.com/s/1PGn9hEos6gDTFPYsfFkgCg 提取码: 22nm 提供两个版本的BIOS，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。 此处提供的 BIOS 均以 ZIP 格</description></item><item><title>微星 MSI 300 系 22nm PCH 主板 Sky/Kaby Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/msi-300s-22nm-pch-motherboard-modified-bios/</link><pubDate>Sat, 02 Mar 2024 23:24:16 +0800</pubDate><guid>https://dsanke.cc/post/msi-300s-22nm-pch-motherboard-modified-bios/</guid><description>下载 链接: https://pan.baidu.com/s/1N1ngOwU0Po8IqyHmQr5Eig 提取码: evi8 提供两个版本的 BIOS ，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。 此处提供的 BIOS 均以 ZIP 格式压缩</description></item><item><title>微星 MSI C230/100/200 系 主板 Coffee Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/msi-100s-200s-motherboard-modified-bios/</link><pubDate>Sat, 02 Mar 2024 22:00:16 +0800</pubDate><guid>https://dsanke.cc/post/msi-100s-200s-motherboard-modified-bios/</guid><description>下载 链接: https://pan.baidu.com/s/1gPKt62AwwfljZOcL7EAPKQ 提取码: y91p 提供两个版本的 BIOS ，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。 此处提供的 BIOS 均以 ZIP 格式压缩</description></item><item><title>关于</title><link>https://dsanke.cc/about.html</link><pubDate>Sat, 02 Mar 2024 21:38:16 +0800</pubDate><guid>https://dsanke.cc/about.html</guid><description>关于我 混迹互联网多年，啥都懂点，也啥都不精。 关于本站 随便写点东西，能帮到你自然就是最好了。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Surfing Through the Decade</title><link>https://dsanke.cc/</link><description>Recent content on Surfing Through the Decade</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 22 Sep 2024 20:00:00 +0800</lastBuildDate><atom:link href="https://dsanke.cc/rss.xml" rel="self" type="application/rss+xml"/><item><title>华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/asus-100s-pch-motherboard-legacy-modified-bios/</link><pubDate>Sun, 03 Mar 2024 15:27:00 +0800</pubDate><guid>https://dsanke.cc/post/asus-100s-pch-motherboard-legacy-modified-bios/</guid><description>&lt;h1 id="前言">前言
+&lt;a class="header-anchor" href="#%e5%89%8d%e8%a8%80">&lt;/a>
+&lt;/h1>&lt;ul>
+&lt;li>此处的 BIOS 与
+&lt;a href="https://dsanke.cc/post/asus-100s-200s-pch-motherboard-modified-bios" title="华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS" >
+ 华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS
+ 
+&lt;/a>主要有两点区别：
+&lt;ol>
+&lt;li>此处的 BIOS 支持 Skylake ES。&lt;/li>
+&lt;li>此处的 BIOS 主要兼容 DDR3 版本。&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>若此处找不到你需要的 BIOS，可以去
+&lt;a href="https://dsanke.cc/post/asus-100s-200s-pch-motherboard-modified-bios" title="华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS" >
+ 华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS
+ 
+&lt;/a>试试。&lt;/li>
+&lt;/ul>
+&lt;h1 id="下载">下载
+&lt;a class="header-anchor" href="#%e4%b8%8b%e8%bd%bd">&lt;/a>
+&lt;/h1>&lt;p>链接: 
+&lt;a href="https://pan.baidu.com/s/1Pocaj4dKxTOvz-BIXIt3vQ" title="https://pan.baidu.com/s/1Pocaj4dKxTOvz-BIXIt3vQ" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://pan.baidu.com/s/1Pocaj4dKxTOvz-BIXIt3vQ
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 提取码: 6kae&lt;br>
+提供两个版本的BIOS，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。&lt;br>
+此处提供的 BIOS 均以 ZIP 格式压缩，解压后的文件名与官方 BIOS 一致，必须解压后再刷入。&lt;/p></description></item><item><title>华硕 ASUS 部分 C230/100/200 系 主板 CFL &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/asus-100s-200s-pch-motherboard-modified-bios/</link><pubDate>Sun, 03 Mar 2024 13:59:16 +0800</pubDate><guid>https://dsanke.cc/post/asus-100s-200s-pch-motherboard-modified-bios/</guid><description>&lt;h1 id="前言">前言
+&lt;a class="header-anchor" href="#%e5%89%8d%e8%a8%80">&lt;/a>
+&lt;/h1>&lt;ul>
+&lt;li>此处的 BIOS 与
+&lt;a href="https://dsanke.cc/post/asus-100s-pch-motherboard-legacy-modified-bios" title="华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS" >
+ 华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS
+ 
+&lt;/a>主要有两点区别：
+&lt;ol>
+&lt;li>此处的 BIOS 不支持 Skylake ES。&lt;/li>
+&lt;li>此处的 BIOS 主要兼容 DDR4 版本。&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>若此处找不到你需要的 BIOS，可以去
+&lt;a href="https://dsanke.cc/post/asus-100s-pch-motherboard-legacy-modified-bios" title="华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS" >
+ 华硕 ASUS 部分 C230/100 系 主板 Coffee Lake &amp;amp; Xeon &amp;amp; BGA1440 Mod BIOS
+ 
+&lt;/a>试试。&lt;/li>
+&lt;/ul>
+&lt;h1 id="下载">下载
+&lt;a class="header-anchor" href="#%e4%b8%8b%e8%bd%bd">&lt;/a>
+&lt;/h1>&lt;p>链接: 
+&lt;a href="https://pan.baidu.com/s/1BM02pkLy9csHqwH2eweyyw" title="https://pan.baidu.com/s/1BM02pkLy9csHqwH2eweyyw" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://pan.baidu.com/s/1BM02pkLy9csHqwH2eweyyw
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 提取码: uu22&lt;br>
+提供两个版本的BIOS，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。&lt;br>
+此处提供的 BIOS 均以 ZIP 格式压缩，解压后的文件名与官方 BIOS 一致，必须解压后再刷入。&lt;/p></description></item><item><title>华硕 ASUS 300 系 22nm PCH 主板 Sky/Kaby Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/asus-300s-22nm-pch-motherboard-modified-bios/</link><pubDate>Sat, 02 Mar 2024 23:54:16 +0800</pubDate><guid>https://dsanke.cc/post/asus-300s-22nm-pch-motherboard-modified-bios/</guid><description>&lt;h1 id="下载">下载
+&lt;a class="header-anchor" href="#%e4%b8%8b%e8%bd%bd">&lt;/a>
+&lt;/h1>&lt;p>链接: 
+&lt;a href="https://pan.baidu.com/s/1PGn9hEos6gDTFPYsfFkgCg" title="https://pan.baidu.com/s/1PGn9hEos6gDTFPYsfFkgCg" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://pan.baidu.com/s/1PGn9hEos6gDTFPYsfFkgCg
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 提取码: 22nm&lt;br>
+提供两个版本的BIOS，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。&lt;br>
+此处提供的 BIOS 均以 ZIP 格式压缩，解压后的文件名与官方 BIOS 一致，必须解压后再刷入。&lt;/p></description></item><item><title>微星 MSI 300 系 22nm PCH 主板 Sky/Kaby Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/msi-300s-22nm-pch-motherboard-modified-bios/</link><pubDate>Sat, 02 Mar 2024 23:24:16 +0800</pubDate><guid>https://dsanke.cc/post/msi-300s-22nm-pch-motherboard-modified-bios/</guid><description>&lt;h1 id="下载">下载
+&lt;a class="header-anchor" href="#%e4%b8%8b%e8%bd%bd">&lt;/a>
+&lt;/h1>&lt;p>链接: 
+&lt;a href="https://pan.baidu.com/s/1N1ngOwU0Po8IqyHmQr5Eig" title="https://pan.baidu.com/s/1N1ngOwU0Po8IqyHmQr5Eig" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://pan.baidu.com/s/1N1ngOwU0Po8IqyHmQr5Eig
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 提取码: evi8&lt;br>
+提供两个版本的 BIOS ，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。&lt;br>
+此处提供的 BIOS 均以 ZIP 格式压缩，解压后的文件名与官方 BIOS 一致，必须解压后再刷入。&lt;/p></description></item><item><title>微星 MSI C230/100/200 系 主板 Coffee Lake &amp; Xeon &amp; BGA1440 Mod BIOS</title><link>https://dsanke.cc/post/msi-100s-200s-motherboard-modified-bios/</link><pubDate>Sat, 02 Mar 2024 22:00:16 +0800</pubDate><guid>https://dsanke.cc/post/msi-100s-200s-motherboard-modified-bios/</guid><description>&lt;h1 id="下载">下载
+&lt;a class="header-anchor" href="#%e4%b8%8b%e8%bd%bd">&lt;/a>
+&lt;/h1>&lt;p>链接: 
+&lt;a href="https://pan.baidu.com/s/1gPKt62AwwfljZOcL7EAPKQ" title="https://pan.baidu.com/s/1gPKt62AwwfljZOcL7EAPKQ" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://pan.baidu.com/s/1gPKt62AwwfljZOcL7EAPKQ
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 提取码: y91p&lt;br>
+提供两个版本的 BIOS ，分别是“ME正常启用”版本和“ME部分禁用”版本，具体区别请详细阅读全文。&lt;br>
+此处提供的 BIOS 均以 ZIP 格式压缩，解压后的文件名与官方 BIOS 一致，必须解压后再刷入。&lt;/p></description></item><item><title>关于</title><link>https://dsanke.cc/about.html</link><pubDate>Sat, 02 Mar 2024 21:38:16 +0800</pubDate><guid>https://dsanke.cc/about.html</guid><description>&lt;h1 id="关于我">关于我
+&lt;a class="header-anchor" href="#%e5%85%b3%e4%ba%8e%e6%88%91">&lt;/a>
+&lt;/h1>&lt;p>混迹互联网多年，啥都懂点，也啥都不精。&lt;/p>
+&lt;h1 id="关于本站">关于本站
+&lt;a class="header-anchor" href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e7%ab%99">&lt;/a>
+&lt;/h1>&lt;p>随便写点东西，能帮到你自然就是最好了。&lt;/p></description></item></channel></rss>
